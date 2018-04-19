@@ -66,3 +66,6 @@ def svoGraphCSV(collection, filename):
         raise Exception
 
 
+#print(os.path.exists(os.path.join(os.getcwd(), '../..')))
+#print(os.path.exists(os.path.join(os.getcwd(), '../../../csvAdjacencyMatrix', config.svoGraphFilename)))
+

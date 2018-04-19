@@ -81,4 +81,3 @@ similarityThreshold = 0.8
 #svoGraphFilename = 'svoGraph06FbCambridge.csv'
 svoGraphFilename = 'svoGraph08FbCambridge.csv'
 
-nodes2modularityClassCSV = ''
